@@ -34,8 +34,6 @@ public:
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Lyra|Pawn")
 	TSubclassOf<APawn> PawnClass;
 
-	// TEMP
-	/*
 	// Ability sets to grant to this pawn's ability system.
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Lyra|Abilities")
 	TArray<TObjectPtr<ULyraAbilitySet>> AbilitySets;
@@ -51,5 +49,4 @@ public:
 	// Default camera mode used by player controlled pawns.
 	UPROPERTY(EditDefaultsOnly, BlueprintReadOnly, Category = "Lyra|Camera")
 	TSubclassOf<ULyraCameraMode> DefaultCameraMode;
-	*/
 };
