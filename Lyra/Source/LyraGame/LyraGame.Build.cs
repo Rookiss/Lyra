@@ -2,9 +2,9 @@
 
 using UnrealBuildTool;
 
-public class Lyra : ModuleRules
+public class LyraGame : ModuleRules
 {
-	public Lyra(ReadOnlyTargetRules Target) : base(Target)
+	public LyraGame(ReadOnlyTargetRules Target) : base(Target)
 	{
 		PCHUsage = PCHUsageMode.UseExplicitOrSharedPCHs;
 	
