@@ -1,1 +1,1 @@
-"C:/Program Files/Epic Games/UE_5.4/Engine/Build/BatchFiles/Build.bat"  -projectfiles -project="C:/Rookiss/Rookiss/Lyra/Lyra/Lyra.uproject" -game -rocket -progress -log="C:\Rookiss\Rookiss\Lyra\Lyra/Saved/Logs/UnrealVersionSelector-2024.05.04-20.31.41.log"
+"C:/Program Files/Epic Games/UE_5.4/Engine/Build/BatchFiles/Build.bat"  -projectfiles -project="%~dp0/Lyra/Lyra.uproject" -game -rocket -progress 
